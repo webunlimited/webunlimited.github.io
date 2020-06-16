@@ -1,0 +1,19 @@
+body{
+	background-image: url(home.jpg);
+	background-size: cover;
+	text-align: center;
+	text-transform: uppercase;
+}
+p{
+	color: white;
+}
+.btn-primary{
+	background-color: red;
+	border: solid black;
+}
+.btn-danger{
+	border-radius: 200px;
+}
+.active{
+	margin: 5px;
+}
